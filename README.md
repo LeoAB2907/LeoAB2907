@@ -1,4 +1,13 @@
 ### Hi there 👋
+Welcome to my profile!
+
+Here are some things about me :)
+
+- 🌱 I'm currently learning how to use Unreal Engine to make games.
+- 🔭 I'm currently working on creating minecraft plugins to publish them on Spigot
+
+- 📫 How to reach me:
+ Send me an email contact@leonardoarias.xyz
 
 <!--
 **LeoAB2907/LeoAB2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
