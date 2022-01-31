@@ -1,13 +1,8 @@
 ### Hi there 👋
 Welcome to my profile!
 
-Here are some things about me :smiley:
-
-- 🌱 I'm currently learning how to use Unreal Engine to make games.
-- 🔭 I'm currently working on creating minecraft plugins to publish them on Spigot
-
 📫 How to reach me:
- Send me an email contact@leonardoarias.xyz
+ Send me an email arias.leonardodev@gmail.com
  
  #### Best program I ever made?
     
