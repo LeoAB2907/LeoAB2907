@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [blackJackCounter](https://github.com/LeoAB2907/blackJackCounter)
 
-- 👨‍💻 All of my projects are available at [leonardoarias.xyz](leonardoarias.xyz)
+- 👨‍💻 All of my projects are available at [leonardoarias.xyz](https://leonardoarias.xyz/)
 
 - 📫 How to reach me **arias.leonardodev@gmail.com**
 
